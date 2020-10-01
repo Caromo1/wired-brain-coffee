@@ -22,3 +22,8 @@ jobs:
       - run:
          print: Imprime otra vez fecha
          command: date 
+         
+      - run:
+         print: Imprime otra vez fecha
+         command: date 
+      
